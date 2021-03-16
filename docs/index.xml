@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primeros Pasos</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Primeros Pasos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 15 Mar 2021 10:50:18 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenidos a Hugo</title>
+      <link>http://example.org/posts/bienvenidos-a-hugo/</link>
+      <pubDate>Mon, 15 Mar 2021 10:50:18 +0100</pubDate>
+      
+      <guid>http://example.org/posts/bienvenidos-a-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primer Post</title>
+      <link>http://example.org/posts/primer-post/</link>
+      <pubDate>Mon, 15 Mar 2021 10:49:35 +0100</pubDate>
+      
+      <guid>http://example.org/posts/primer-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Thu, 11 Mar 2021 13:29:17 +0100</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>Este es un sitio web con Hugo
+Seguro que encontraras en Hugo una herramienta excelnte para desarrollar sitios de contenido. Es superpoderoso!!
+ Rapido Versátil Potente  </description>
+    </item>
+    
+  </channel>
+</rss>
