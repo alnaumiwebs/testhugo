@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Primeros Pasos</title>
-    <link>http://example.org/posts/</link>
+    <link>https://alnaumiwebs.github.io/testhugo/posts/</link>
     <description>Recent content in Posts on Primeros Pasos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 15 Mar 2021 10:50:18 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 10:50:18 +0100</lastBuildDate><atom:link href="https://alnaumiwebs.github.io/testhugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenidos a Hugo</title>
-      <link>http://example.org/posts/bienvenidos-a-hugo/</link>
+      <link>https://alnaumiwebs.github.io/testhugo/posts/bienvenidos-a-hugo/</link>
       <pubDate>Mon, 15 Mar 2021 10:50:18 +0100</pubDate>
       
-      <guid>http://example.org/posts/bienvenidos-a-hugo/</guid>
+      <guid>https://alnaumiwebs.github.io/testhugo/posts/bienvenidos-a-hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://alnaumiwebs.github.io/testhugo/posts/primer-post/</link>
       <pubDate>Mon, 15 Mar 2021 10:49:35 +0100</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://alnaumiwebs.github.io/testhugo/posts/primer-post/</guid>
       <description></description>
     </item>
     
