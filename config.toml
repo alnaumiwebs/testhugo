@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://alnaumiwebs.github.io/testhugo/"
 languageCode = "es"
 title = "Primeros Pasos"
 theme = "tale"
